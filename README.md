@@ -167,8 +167,8 @@ This repository is useful for students practicing:
 
 ## Authors
 
-- Ori Maimon (`216383174`)
-- Natan Krombein (`341004471`)
+- Ori Maimon
+- Natan Krombein
 
 (Author information appears in source file headers.)
 
